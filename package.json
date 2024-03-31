@@ -1,8 +1,8 @@
 {
     "name": "Bleucraft-Launcher",
     "preductname": "Bluecraft Launcher",
-    "version": "1.0.0",
-    "description": "Launcher Mincraft pour le serveur Bleucraft",
+    "version": "1.0.1",
+    "description": "Bluecraft Launcher",
     "main": "src/app.js",
     "author": {
         "name": "Bluecraft-group.",
