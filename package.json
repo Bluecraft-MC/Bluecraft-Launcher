@@ -5,7 +5,7 @@
     "description": "Bluecraft Launcher",
     "main": "src/app.js",
     "author": {
-        "name": "Bluecraft-group.",
+        "name": "Bluecraft.",
         "email": "contact@bleucraft.fr",
         "url": "https://bleucraft.fr"
     },
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/legeekkylian/Bluecraft-Launcher.git"
+        "url": "git+https://github.com/Bluecraft-MC/Bluecraft-Launcher.git"
     }
 }
