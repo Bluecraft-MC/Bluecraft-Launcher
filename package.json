@@ -1,11 +1,11 @@
 {
-    "name": "Bleucraft-Launcher",
+    "name": "Bluecraft-Launcher",
     "preductname": "Bluecraft Launcher",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Bluecraft Launcher",
     "main": "src/app.js",
     "author": {
-        "name": "Bluecraft.",
+        "name": "Bluecraft (Kiz___).",
         "email": "contact@bleucraft.fr",
         "url": "https://bleucraft.fr"
     },
