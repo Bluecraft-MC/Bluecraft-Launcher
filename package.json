@@ -1,7 +1,7 @@
 {
     "name": "Bluecraft-Launcher",
     "preductname": "Bluecraft Launcher",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Bluecraft Launcher",
     "main": "src/app.js",
     "author": {
