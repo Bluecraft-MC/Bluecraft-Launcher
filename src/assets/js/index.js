@@ -31,7 +31,7 @@ class Splash {
     async startAnimation() {
         let splashes = [
             { "message": "Salut !", "author": "Kiz___" },
-            { "message": "Hésiter pas a rejoindre le discord. ( discord.bleucrat.fr )", "author":  "Team Bluecraft" },
+            { "message": "Notre Discord ( discord.bleucrat.fr )", "author":  "Team Bluecraft" },
             { "message": "Hésiter a passé sur la boutique.", "author": "Team Bluecraft" }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
