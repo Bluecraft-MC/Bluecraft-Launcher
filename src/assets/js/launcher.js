@@ -140,10 +140,10 @@ class Launcher {
                     continue
                 }
                 if (account.meta.type === 'Xbox') {
-                    console.log(`Account Type: ${account.meta.type} | Username: ${account.name}`);
+                    console.log(`Type de Compte: Microsoft | Pseudo: ${account.name}`);
                     popupRefresh.openPopup({
                         title: 'Connexion',
-                        content: `Refresh account Type: ${account.meta.type} | Username: ${account.name}`,
+                        content: `Refresh account Type: Microsoft | Pseudo: ${account.name}`,
                         color: 'var(--color)',
                         background: false
                     });
@@ -168,7 +168,7 @@ class Launcher {
                     console.log(`Account Type: ${account.meta.type} | Username: ${account.name}`);
                     popupRefresh.openPopup({
                         title: 'Connexion',
-                        content: `Refresh account Type: ${account.meta.type} | Username: ${account.name}`,
+                        content: `Refresh Type de Compte:: ${account.meta.type} | Pseudo: ${account.name}`,
                         color: 'var(--color)',
                         background: false
                     });
@@ -189,10 +189,10 @@ class Launcher {
                     await addAccount(refresh_accounts)
                     if (account_ID == account_selected) accountSelect(refresh_accounts)
                 } else if (account.meta.type == 'Mojang') {
-                    console.log(`Account Type: ${account.meta.type} | Username: ${account.name}`);
+                    console.log(`Type de Compte: ${account.meta.type} | Pseudo: ${account.name}`);
                     popupRefresh.openPopup({
                         title: 'Connexion',
-                        content: `Refresh account Type: ${account.meta.type} | Username: ${account.name}`,
+                        content: `Refresh Type de Compte: ${account.meta.type} | Pseudo: ${account.name}`,
                         color: 'var(--color)',
                         background: false
                     });
