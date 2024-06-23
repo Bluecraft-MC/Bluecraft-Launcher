@@ -35,7 +35,7 @@ class Splash {
             { "message": "Hésiter a passé sur la boutique.", "author": "Team Bluecraft" },
             { "message": "Le cheat c'est mal.", "author": "Team Bluecraft" },
             { "message": "Pourquoi tu utilise le launcher ?", "author": "Kiz___" },
-            { "message": "Tu me coannais ?", "author": "Batallet" },
+            { "message": "Tu me connais ?", "author": "Batallet" },
             { "message": "😁", "author": "LeFoUrBuS" }
         ];
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
